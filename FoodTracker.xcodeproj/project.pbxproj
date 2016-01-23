@@ -17,6 +17,7 @@
 		984647C81C520031001A661C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 984647C61C520031001A661C /* LaunchScreen.storyboard */; };
 		984647D31C520031001A661C /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 984647D21C520031001A661C /* FoodTrackerTests.swift */; };
 		984647E01C52F48C001A661C /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 984647DF1C52F48C001A661C /* RatingControl.swift */; };
+		98FBC2A11C544344009075AF /* MealTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98FBC2A01C544344009075AF /* MealTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		984647D21C520031001A661C /* FoodTrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerTests.swift; sourceTree = "<group>"; };
 		984647D41C520031001A661C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		984647DF1C52F48C001A661C /* RatingControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RatingControl.swift; path = ../RatingControl.swift; sourceTree = "<group>"; };
+		98FBC2A01C544344009075AF /* MealTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MealTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				984647BD1C520031001A661C /* AppDelegate.swift */,
 				984647BF1C520031001A661C /* ViewController.swift */,
 				984647C11C520031001A661C /* Main.storyboard */,
+				98FBC2A01C544344009075AF /* MealTableViewController.swift */,
 				983498F71C5432BE00B70C78 /* MealTableViewCell.swift */,
 				984647C41C520031001A661C /* Assets.xcassets */,
 				984647C61C520031001A661C /* LaunchScreen.storyboard */,
@@ -211,6 +214,7 @@
 				984647C01C520031001A661C /* ViewController.swift in Sources */,
 				984647E01C52F48C001A661C /* RatingControl.swift in Sources */,
 				984647BE1C520031001A661C /* AppDelegate.swift in Sources */,
+				98FBC2A11C544344009075AF /* MealTableViewController.swift in Sources */,
 				983498F81C5432BE00B70C78 /* MealTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
